@@ -31,5 +31,3 @@ The notebook samples one augmentation operation and a magnitude for each image, 
 ## Data
 
 CIFAR-10 is downloaded through torchvision into `./data`.
-
-The original notebook remains unchanged in this cleanup branch.
